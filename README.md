@@ -5,4 +5,4 @@ This project implements an ETL pipeline using Pyspark to process Accounts Payabl
 
 The pipeline performs data transformation, reconciliation, and aggregation to generate insights into outstanding receivables and overdue payables.
 
-*Simulates transactions from a Shopify website. Data is sample generated data that is not reflective of any real actual figures from any real company.
+*Simulates transactions from a Shopify website. Data is sample generated data.
